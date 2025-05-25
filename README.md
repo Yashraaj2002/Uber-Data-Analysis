@@ -40,3 +40,20 @@ Analyze Uber trip data to extract actionable insights that help optimize fleet a
 - Vehicle usage patterns analyzed to optimize fleet mix, reducing idle time and improving utilization.  
 - High-frequency pickup locations and longest trips mapped to prioritize service quality and dynamic pricing in key areas.  
 - Granular trip data empowers quick issue resolution and supports data-driven operational decisions.
+
+## 📊 Dashboard 1: Overview Analysis  
+![Dashboard 1](https://github.com/Yashraaj2002/Uber-Data-Analysis/blob/main/Uber%20Dashboard%201.png)  
+💡 Covers 6 key KPIs, payment type trends, trip value by time of day, vehicle usage, location performance, and most frequent pickups.
+
+---
+
+## ⏱️ Dashboard 2: Time Analysis  
+![Dashboard 2](https://github.com/Yashraaj2002/Uber-Data-Analysis/blob/main/Uber%20Dashboard%202.png)  
+💡 Shows booking trends by pickup time, day of week, and hour to identify peak operational periods.
+
+---
+
+## 📋 Dashboard 3: Drillthrough Details  
+![Dashboard 3](https://github.com/Yashraaj2002/Uber-Data-Analysis/blob/main/Uber%20Dashboard%203.png)  
+💡 Interactive table showing trip-level details including ID, pickup time, vehicle, payment type, passenger count, distance, and value.
+
