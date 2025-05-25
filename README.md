@@ -29,8 +29,7 @@ Analyze Uber trip data to extract actionable insights that help optimize fleet a
 ## Project Structure 📁  
 - `Dashboard_Report.pbix` — Power BI file containing the 3-page interactive dashboard with KPIs, booking trends, and drill-through tables.  
 - `SQL_Queries.sql` — Collection of SQL scripts for data aggregation, business logic, and dataset preparation.  
-- `Raw_Data/` — Folder containing the original CSV trip data files.  
-- `Data_Cleaning.xlsx` — Excel workbook with Power Query and VBA scripts used for initial data cleaning and normalization.
+- `Raw_Data (Uber Trips)` — Folder containing the original CSV trip data files.  
 
 ---
 
