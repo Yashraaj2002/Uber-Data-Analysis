@@ -40,6 +40,8 @@ Analyze Uber trip data to extract actionable insights that help optimize fleet a
 - High-frequency pickup locations and longest trips mapped to prioritize service quality and dynamic pricing in key areas.  
 - Granular trip data empowers quick issue resolution and supports data-driven operational decisions.
 
+---
+
 ## 📊 Dashboard 1: Overview Analysis  
 ![Dashboard 1](https://github.com/Yashraaj2002/Uber-Data-Analysis/blob/main/Uber%20Dashboard%201.png)  
 💡 Covers 6 key KPIs, payment type trends, trip value by time of day, vehicle usage, location performance, and most frequent pickups.
