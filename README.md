@@ -11,11 +11,22 @@ Analyze Uber trip data to extract actionable insights that help optimize fleet a
 ---
 
 ## Data Preparation Process ⚙️  
-- **Data Cleaning & Normalization:** Used Excel Power Query and VBA for date/time standardization, handling missing values, and data type consistency.  
-- **ETL & Storage:** Loaded cleaned data into PostgreSQL with appropriate data types (timestamps, numerics).  
-- **Data Aggregation & Manipulation:** Applied advanced SQL techniques including window functions, grouping, and filtering to prepare analytical datasets.  
-- **Business Logic Implementation:** Embedded classification rules (e.g., day vs. night trips) within SQL queries for dynamic segmentation.  
-- **Visualization Setup:** Developed interactive Power BI dashboards with dynamic filters and drill-through capabilities for actionable insights.
+
+1. **Data Cleaning & Normalization:**  
+   Used Excel Power Query and VBA for date/time standardization, handling missing values, and data type consistency.
+
+2. **ETL & Storage:**  
+   Loaded cleaned data into PostgreSQL with appropriate data types (timestamps, numerics).
+
+3. **Data Aggregation & Manipulation:**  
+   Applied advanced SQL techniques including window functions, grouping, and filtering to prepare analytical datasets.
+
+4. **Business Logic Implementation:**  
+   Embedded classification rules (e.g., day vs. night trips) within SQL queries for dynamic segmentation.
+
+5. **Visualization Setup:**  
+   Developed interactive Power BI dashboards with dynamic filters and drill-through capabilities for actionable insights.
+
 
 ---
 
